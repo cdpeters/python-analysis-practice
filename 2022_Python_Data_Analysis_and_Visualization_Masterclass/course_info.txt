@@ -1,3 +1,6 @@
+Environment Used:
+pythonPractice
+
 Course Name:
 2022 Python Data Analysis & Visualization Masterclass
 
