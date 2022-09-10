@@ -1,0 +1,11 @@
+Course Name:
+Python for Data Analysis 3rd Edition
+
+Course Instructor:
+Wes Mckinney
+
+Course Location:
+Textbook
+
+Course Year:
+2022
