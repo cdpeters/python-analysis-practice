@@ -5,7 +5,7 @@ Course Name:
 Python for Data Analysis 3rd Edition
 
 Course Instructor:
-Wes Mckinney
+Wes McKinney
 
 Course Location:
 Textbook
