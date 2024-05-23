@@ -1,0 +1,14 @@
+Environment Used:
+collab (defined in movie-metadata project)
+
+Course Name:
+Data Analysis with Polars
+
+Course Instructor:
+Liam Brannigan
+
+Course Location:
+Udemy
+
+Course Year:
+2024
