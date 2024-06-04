@@ -1,0 +1,14 @@
+Environment Used:
+python_practice
+
+Course Name:
+The Modern Python 3 Bootcamp
+
+Course Instructor:
+Colt Steele
+
+Course Location:
+Udemy
+
+Course Year:
+2022
