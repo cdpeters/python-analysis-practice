@@ -1,5 +1,5 @@
 Environment Used:
-pythonPractice
+python_practice
 
 Course Name:
 2022 Python Data Analysis & Visualization Masterclass
