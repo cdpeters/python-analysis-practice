@@ -1,5 +1,5 @@
 Environment Used:
-pydata
+python_practice
 
 Course Name:
 Python for Data Analysis 3rd Edition
