@@ -1,0 +1,5 @@
+name: python_practice
+channels:
+  - defaults
+dependencies:
+  - python=3.12
