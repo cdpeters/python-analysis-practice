@@ -3809,6 +3809,20 @@ pyarrow = ">=5"
 embed = ["vegafusion-python-embed (==1.6.9)", "vl-convert-python (>=0.7.0)"]
 
 [[package]]
+name = "vl-convert-python"
+version = "1.5.0"
+description = "Convert Vega-Lite chart specifications to SVG, PNG, or Vega"
+optional = false
+python-versions = ">=3.7"
+files = [
+    {file = "vl_convert_python-1.5.0-cp37-abi3-macosx_11_0_arm64.whl", hash = "sha256:fba51e437a09aa0fb04e1931a4b851231053aeb14715a3653e272c829aac1dc4"},
+    {file = "vl_convert_python-1.5.0-cp37-abi3-manylinux_2_17_aarch64.manylinux2014_aarch64.whl", hash = "sha256:0244666476817c1f772d26286485c24ce2218fafd9b4f1913a6ef21857083531"},
+    {file = "vl_convert_python-1.5.0-cp37-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl", hash = "sha256:889a403781e08a77e22370a6cac25e1c0720042dbaa7d006a5dcc3bf015e7587"},
+    {file = "vl_convert_python-1.5.0-cp37-abi3-win_amd64.whl", hash = "sha256:6d493952f568c85a445c2e515371a61f7ff2d09f5585e915abceec3efcd5826b"},
+    {file = "vl_convert_python-1.5.0.tar.gz", hash = "sha256:ba1e13a84f5a3d1af393d0d32aa19c4268db573d5f5c799bce8a5dc0468b1899"},
+]
+
+[[package]]
 name = "wcwidth"
 version = "0.2.13"
 description = "Measures the displayed width of unicode strings in a terminal"
@@ -3875,4 +3889,4 @@ files = [
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.12"
-content-hash = "8df1d0fcba59ced2a23d308912a8e45d77a7de0ff66fe41c425d6bfda37e798e"
+content-hash = "221f2ed17690f95c2aa256b572f5dd38f5b432bd42b41dbcdc3be87d3790c168"
